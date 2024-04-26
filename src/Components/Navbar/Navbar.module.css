@@ -1,0 +1,23 @@
+svg{
+    width: 40px;
+    height: 40px;
+}
+.container-fluid{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn .logout{
+    border: none;
+    outline: none;
+    right: 0;
+}
